@@ -24,6 +24,9 @@
     height: 100%;
     border-radius: 10px;
 }
+.lSSlideOuter .lSPager.lSGallery li {
+    pointer-events: none;
+}
 .lSAction>a {
     display: none;
 }
